@@ -1,0 +1,6 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(491,5): warning MSB8028: промежуточный каталог (Debug\) содержит файлы, которые используются совместно с другим проектом (Project2.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  main.cpp
+C:\Users\alexb\source\repos\Minesweeper\main.cpp(10,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\alexb\source\repos\Minesweeper\main.cpp(111,49): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\alexb\source\repos\Minesweeper\main.cpp(111,34): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  Project2.vcxproj -> C:\Users\alexb\source\repos\Minesweeper\Debug\Minesweeper.exe

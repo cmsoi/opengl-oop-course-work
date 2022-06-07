@@ -1,0 +1,9 @@
+﻿  main.cpp
+C:\Users\alexb\source\repos\15-Puzzle\main.cpp(8,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\alexb\source\repos\15-Puzzle\main.cpp(64,44): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\alexb\source\repos\15-Puzzle\main.cpp(64,26): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\alexb\source\repos\15-Puzzle\main.cpp(68,43): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\alexb\source\repos\15-Puzzle\main.cpp(68,31): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\alexb\source\repos\15-Puzzle\main.cpp(82,45): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\alexb\source\repos\15-Puzzle\main.cpp(82,29): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  15-Puzzle.vcxproj -> C:\Users\alexb\source\repos\15-Puzzle\Debug\15-Puzzle.exe

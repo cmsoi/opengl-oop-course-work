@@ -1,0 +1,2 @@
+C:\Users\alexb\source\repos\15-Puzzle\Debug\15-Puzzle.exe
+C:\Users\alexb\source\repos\15-Puzzle\Debug\15-Puzzle.pdb

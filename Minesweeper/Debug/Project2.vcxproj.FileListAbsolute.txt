@@ -1,0 +1,4 @@
+C:\Users\alexb\source\repos\Project2\Debug\Project2.exe
+C:\Users\alexb\source\repos\Project2\Debug\Project2.pdb
+C:\Users\alexb\source\repos\Minesweeper\Debug\Minesweeper.exe
+C:\Users\alexb\source\repos\Minesweeper\Debug\Minesweeper.pdb

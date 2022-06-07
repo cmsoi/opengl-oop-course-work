@@ -1,0 +1,4 @@
+C:\Users\alexb\source\repos\Project3\Debug\Primitives.exe
+C:\Users\alexb\source\repos\Project3\Debug\Primitives.pdb
+C:\Users\alexb\source\repos\Primitives\Debug\Primitives.exe
+C:\Users\alexb\source\repos\Primitives\Debug\Primitives.pdb
